@@ -12,3 +12,4 @@ for air mouse, requiremnts are
 
 
 make sure you are using correct API for those who are using newer version of mediapipe, and everything can be easily installed via cmd
+(make sure to change the gestures lol)
