@@ -4,7 +4,7 @@ for air canvas, make sure you have
 - python
 - mediapipe
 - opencv
-all can be easily install via cmd
+\n all can be easily install via cmd
 
 for air mouse, requiremnts are
 - python
