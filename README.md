@@ -4,12 +4,11 @@ for air canvas, make sure you have
 - python
 - mediapipe
 - opencv
-\n all can be easily install via cmd
 
 for air mouse, requiremnts are
 - python
 - tensorflow
 - pyautogui
-again everything can be installed via cmd
 
-make sure you are using correct API for those who are using newer version of mediapipe
+
+make sure you are using correct API for those who are using newer version of mediapipe, and everything can be easily installed via cmd
